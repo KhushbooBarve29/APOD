@@ -1,0 +1,22 @@
+//
+//  Localizable.strings
+//  APODSwift
+//
+//  Created by Khushboo Barve on 29/03/2025.
+//
+
+//APOD Detail View
+"ui.apod.title" = "NASA APOD";
+"ui.apod.button" = "Change Date";
+"ui.apod.video.not.supported" = "Video format not supported";
+"ui.apod.error.alert.title" = "Error";
+"ui.apod.error.alert.message" = "Something went wrong.";
+"ui.apod.error.alert.button" = "OK";
+
+//APOD Tab Bar
+"ui.apod.tab.bar" = "APOD";
+"ui.apod.tab.bar.setting" = "Settings";
+
+//Date Picker View
+"ui.apod.date.picker.title" = "Pick Your Date";
+"ui.apod.date.picker.done.button" = "Done";

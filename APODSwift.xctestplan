@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "701C460D-3707-4C0A-95AF-1E97ADE98E1E",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:APODSwift.xcodeproj",
+      "identifier" : "BD7C93AA2D9AD63500B6F11F",
+      "name" : "APODSwift"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:APODSwift.xcodeproj",
+        "identifier" : "BD7C93BA2D9AD63600B6F11F",
+        "name" : "APODSwiftTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:APODSwift.xcodeproj",
+        "identifier" : "BD7C93C42D9AD63600B6F11F",
+        "name" : "APODSwiftUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

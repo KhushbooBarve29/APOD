@@ -1,0 +1,12 @@
+//
+//  APODConfig.xcconfig
+//  APODSwift
+//
+//  Created by Khushboo Barve on 27/03/2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = Q43WCsMxZ9Eb05BXRgcvzmrIXrXgANqKOSjhWYWp
+CACHE_KEY = cachedAPOD
