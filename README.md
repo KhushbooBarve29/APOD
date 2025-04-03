@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  # APODSwift
 
 Astronomy Picture of the Day demo app in SwiftUI.
@@ -16,3 +17,6 @@ The main features are:
      - Select an APOD image from a specific date.
 - Supports Dynamic Type, Dark Mode, and an adaptive SwiftUI layout.
 - Ensures previously loaded images and data can be viewed offline.
+=======
+# APOD
+>>>>>>> d90ecf069829655b9c1667ef71497971a0b57afb
