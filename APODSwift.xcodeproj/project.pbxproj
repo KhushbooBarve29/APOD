@@ -81,6 +81,7 @@
 		BD7C94022D9ADAA300B6F11F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD7C94042D9ADC2F00B6F11F /* APODConfig.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = APODConfig.xcconfig; sourceTree = "<group>"; };
 		BD7C94052D9ADE3600B6F11F /* APODSwift.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = APODSwift.xctestplan; sourceTree = "<group>"; };
+		BD7C940D2D9AEC7E00B6F11F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +112,7 @@
 		BD7C93A22D9AD63500B6F11F = {
 			isa = PBXGroup;
 			children = (
+				BD7C940D2D9AEC7E00B6F11F /* README.md */,
 				BD7C94052D9ADE3600B6F11F /* APODSwift.xctestplan */,
 				BD7C93AD2D9AD63500B6F11F /* APODSwift */,
 				BD7C94022D9ADAA300B6F11F /* Info.plist */,
