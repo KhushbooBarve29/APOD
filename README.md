@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  # APODSwift
 
 Astronomy Picture of the Day demo app in SwiftUI.
@@ -17,6 +16,15 @@ The main features are:
      - Select an APOD image from a specific date.
 - Supports Dynamic Type, Dark Mode, and an adaptive SwiftUI layout.
 - Ensures previously loaded images and data can be viewed offline.
-=======
-# APOD
->>>>>>> d90ecf069829655b9c1667ef71497971a0b57afb
+
+# Test Scenarios 
+
+Success Responses: Include image/video URLs, media type, and description.
+- When APOD provides image.
+- When APOD provides video(Date: 1/04/2025)
+- When there is no data provided(24/03/2025)
+
+Failure Response 
+- Always check the status code (400, 403, 429, 500).
+- Display user-friendly messages based on the error type (e.g., "Something went wrong.").
+
